@@ -1,4 +1,4 @@
 # Aspect-based-Diversified-Recommendation
 ## Datasets
-1. Yelp2018-Aspect
-2. Beauty-Aspect
+1. Beauty-Aspect
+2. Yelp2018-Aspect
